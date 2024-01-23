@@ -1,0 +1,2 @@
+# gasterus
+pussh sampai bodoh
