@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://rjslt88.vanderplas.com/sitemap.xml
